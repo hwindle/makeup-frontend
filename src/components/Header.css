@@ -1,0 +1,8 @@
+a {
+  color: var(--blush);
+  padding-right: 1rem;
+}
+
+a:hover {
+  color: var(--pink);
+}
